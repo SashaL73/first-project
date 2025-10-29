@@ -28,3 +28,4 @@
 1. **_git log_**
 2. *Untracked --- git add ---stage --- git commit --- tracked*
 3. *git status*
+4. *git log --oneline*
