@@ -16,3 +16,15 @@
 # И еще
 
 1. *~~Зачекну этот текст.~~*
+	
+---
+
+# git
+
+---
+
+## Основные команды с Git
+
+1. **_git log_**
+2. *Untracked --- git add ---stage --- git commit --- tracked*
+3. *git status*
